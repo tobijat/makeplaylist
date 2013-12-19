@@ -3,7 +3,7 @@
 With this tool you are able to add an entry to your Windows context menu to create m3u-playlists out of music files stored in a folder.
 
 ## Requirements
-* You need to have PHP installed on your system and php.exe added to your PATH.
+* You need to have PHP installed on your system and php.exe added to your PATH..
 
 ## Here is how it works
 
