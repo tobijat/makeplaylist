@@ -3,7 +3,7 @@
     print("pass the root dir as arg1");
     exit();
   }
-  $filter = array("mp3", "m4a", "ogg", "flac");
+  $filter = array("mp3", "m4a", "ogg", "flac", "m4b");
   searchForMusic($argv[1], '', $filter);
 
   function searchForMusic($search, $relativePath, $filter) {
